@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+body {
+	font-family: 'Quicksand', sans-seri;
+}
+
+.jumbotron {
+	border-radius: 0px !important;
+}
+.rodape {
+	border-radius: 0px !important;
+}
+
+.gradiente {
+	background-image: linear-gradient (to left, #87CEFA, #ADD8E6) 
+
+}
+.fundo--blue {
+	background-color: 	#1E90FF !important;
+}
