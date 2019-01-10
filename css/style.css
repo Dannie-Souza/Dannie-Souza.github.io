@@ -8,8 +8,21 @@ body {
 	border-radius: 0px !important;
 }
 .rodape {
-	border-radius: 0px !important;
+	background-image: url("../img/world.png");
+	background-color: white;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 500px;
+	width: 500px;
+	position: relative;
 }
+
+	.contato{
+        text-align: center;
+        color: white;
+        font-style: 2em;
+	}
 
 .gradiente {
 	background-image: linear-gradient (to left, #87CEFA, #ADD8E6) 
@@ -17,4 +30,9 @@ body {
 }
 .fundo--blue {
 	background-color: 	#1E90FF !important;
+}
+
+body {
+	background-image: url("../img/50.png");
+	
 }
